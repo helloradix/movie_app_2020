@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/helloradix/movie_app_2020/static/css/main.87b9dfc6.chunk.css",
+    "main.js": "/helloradix/movie_app_2020/static/js/main.dca3049d.chunk.js",
+    "main.js.map": "/helloradix/movie_app_2020/static/js/main.dca3049d.chunk.js.map",
+    "runtime-main.js": "/helloradix/movie_app_2020/static/js/runtime-main.12d12ef3.js",
+    "runtime-main.js.map": "/helloradix/movie_app_2020/static/js/runtime-main.12d12ef3.js.map",
+    "static/js/2.f211a836.chunk.js": "/helloradix/movie_app_2020/static/js/2.f211a836.chunk.js",
+    "static/js/2.f211a836.chunk.js.map": "/helloradix/movie_app_2020/static/js/2.f211a836.chunk.js.map",
+    "index.html": "/helloradix/movie_app_2020/index.html",
+    "precache-manifest.a0b7a53d04d1431a4b65a26f1704b550.js": "/helloradix/movie_app_2020/precache-manifest.a0b7a53d04d1431a4b65a26f1704b550.js",
+    "service-worker.js": "/helloradix/movie_app_2020/service-worker.js",
+    "static/css/main.87b9dfc6.chunk.css.map": "/helloradix/movie_app_2020/static/css/main.87b9dfc6.chunk.css.map",
+    "static/js/2.f211a836.chunk.js.LICENSE.txt": "/helloradix/movie_app_2020/static/js/2.f211a836.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12d12ef3.js",
+    "static/js/2.f211a836.chunk.js",
+    "static/css/main.87b9dfc6.chunk.css",
+    "static/js/main.dca3049d.chunk.js"
+  ]
+}
